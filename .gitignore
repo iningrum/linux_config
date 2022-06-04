@@ -1,6 +1,6 @@
 *
-!scripts/
-!scripts/*
 !.bashrc
 !.gitconfig
 !.gitignore
+*/
+!*/scripts/*
