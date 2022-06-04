@@ -1,4 +1,4 @@
 #!/bin/bash
-LTOOLS=.ltools-installer
+LTOOLS=.ltools_installer
 sh $LTOOLS/setup
 rm -rf $LTOOLS
