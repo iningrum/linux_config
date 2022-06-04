@@ -2,4 +2,5 @@
 !.bashrc
 !.gitconfig
 !.gitignore
+!~/scripts/usr_scripts/ 
 !~/scripts/usr_scripts/*
