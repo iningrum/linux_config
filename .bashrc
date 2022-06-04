@@ -95,8 +95,7 @@ fi
 alias win='cd /mnt/c/users/admin'
 alias win-top='win;cd desktop/4eit2'
 alias lx='cd ~/'
-alias run='~/scripts/usr_scripts/run.py'
-alias todo='sh ~/scripts/usr_scripts/todo'
+export PATH=~/scripts/usr_scripts:$PATH
 # Alias definitions.
 # You may want to put all your additions into a separate file like
 # ~/.bash_aliases, instead of adding them here directly.
