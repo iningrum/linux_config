@@ -1,0 +1,7 @@
+#!/bin/bash
+repo=${1##*/}
+dir=${1%/*}
+gh repo clone iningrum/$repo
+sh rmif $1
+mkdir $dir
+mv $repo $dir/$repo

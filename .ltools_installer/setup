@@ -1,0 +1,7 @@
+#!/bin/bash
+CLONE ="sh mv_clone"
+# clone all repos
+$CLONE automeas-embeded ~/scripts/usr_scripts
+# unpack base repo
+# remove base repo
+

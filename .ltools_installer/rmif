@@ -1,0 +1,7 @@
+#!/bin/bash
+for ARG in $@ 
+do
+	if [ -d "$ARG" ]; then 
+		rm -rf $ARG; 
+	fi
+done
