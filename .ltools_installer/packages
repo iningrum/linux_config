@@ -1,0 +1,12 @@
+# systools
+neofetch
+ranger
+# compilers, debuggers & such
+gcc
+gdb
+gcc-avr
+# for programming
+code
+git
+gh_cli
+pycharm-community-edition
