@@ -7,3 +7,5 @@
 [user]
 	email = dorin_ingrum@outlook.com
 	name = Dorin Ingrum
+[core]
+	autocrlf = true
